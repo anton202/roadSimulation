@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Road
+comment0.text=\n\ Write\ a\ description\ of\ class\ Road\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=i\ j
+comment1.target=Road(int,\ int)
+comment2.params=
+comment2.target=Road()
+comment3.params=row\ col
+comment3.target=void\ buildRoad(int,\ int)
+comment4.params=row\ col\ num
+comment4.target=void\ addHorizontalBorder(int,\ int,\ int)
+comment5.params=row\ col\ num
+comment5.target=void\ addVirticalBorder(int,\ int,\ int)
+comment6.params=row\ col\ num
+comment6.target=void\ addVirticalBorder2(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ printRoad()
+comment8.params=row\ col
+comment8.target=void\ printRoad(int,\ int)
+comment9.params=
+comment9.target=void\ fillRoadGrid()
+numComments=10
